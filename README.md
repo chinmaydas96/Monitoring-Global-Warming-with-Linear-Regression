@@ -1,7 +1,7 @@
 
 # Monitoring Global warming Linear Regression
 
-![image](Global-warming.jpg)
+![image](images/Global-warming.jpg)
 
 
 ## import libraries
@@ -359,7 +359,7 @@ ax.view_init(10, -45)     # for setting the appropiate view
 ```
 
 
-![png](output_11_0.png)
+![png](images/output_11_0.png)
 
 
 
@@ -381,7 +381,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](images/output_12_0.png)
 
 
 ## Linear regression
@@ -442,7 +442,7 @@ ax.view_init(10, -45)
 ```
 
 
-![png](output_20_0.png)
+![png](images/output_20_0.png)
 
 
 ## projected 2d plot
@@ -471,7 +471,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](images/output_22_0.png)
 
 
 # Don’t make our earth garbage; save it from global warming.
